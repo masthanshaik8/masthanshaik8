@@ -20,10 +20,15 @@
 🎓 B.E. in Computer Science (2021–2025) <br>
 
 🔭 Currently building: Machine Learning and Data Science projects, focusing on predictive models and real-world problem solving using Python, Streamlit and Flask.
+
 💻 I work with: Python, Machine Learning, Data Science, and Full-Stack (Flask/Django) projects that solve practical business and healthcare problems.
+
 🌱 Currently improving: Model deployment, advanced machine-learning techniques, and gaining industry-level experience through real-time projects.
+
 📚 Leveling up in: Advanced Machine Learning concepts, Data Visualization, TensorFlow, and backend development with Flask and Django.
+
 💬 Ask me about: Python, Machine Learning, Random Forest models, Data Cleaning, Flask web apps, and predictive analytics.
+
 ⚡ Fun fact: I enjoy turning raw data into meaningful insights — [add your actual best result here, e.g. model accuracy/R² you personally verified, not an assumed number].
 
 - 💼 Trained in Python Full Stack Development & Data Science at Palle Technologies
