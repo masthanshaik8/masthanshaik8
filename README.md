@@ -17,7 +17,7 @@
 
 ### 🧭 About Me
 
-- 🎓 B.E. in Computer Science (2021–2025) <br>
+🎓 B.E. in Computer Science (2021–2025) <br>
 
 🔭 Currently building: Machine Learning and Data Science projects, focusing on predictive models and real-world problem solving using Python, Streamlit and Flask.
 💻 I work with: Python, Machine Learning, Data Science, and Full-Stack (Flask/Django) projects that solve practical business and healthcare problems.
