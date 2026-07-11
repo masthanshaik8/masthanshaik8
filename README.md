@@ -1,118 +1,18 @@
-<h1 align="center">Hi 👋, I'm Masthan Shaik</h1>
-<h3 align="center">Data Analyst | Data Scientist | Python Developer | GenAI Enthusiast</h3>
+# 💫 About Me:
+Machine Learning and Data Science projects, focusing on predictive models and real-world problem solving using Python and Flask. <br>Python, Machine Learning, Data Science, and Full-Stack (Flask/Django) projects that solve practical business or healthcare problems. <br>Improving model deployment, advanced machine-learning techniques, and gaining industry-level experience in real-time projects. <br>Advanced Machine Learning concepts, Data Visualization, TensorFlow, and improving backend development skills with Flask and Django. <br>Python, Machine Learning, Random Forest models, Data Cleaning, Flask web apps, and predictive analytics.<br>I enjoy turning raw data into meaningful insights and achieved an R² score of 0.98 in a gold price prediction project  
 
-<p align="center">
-  <a href="https://linkedin.com/in/masthan-shaik-a8a99739b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shaikmasthan7337@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/masthanshaik8">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masthan_shaik_733) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masthan-shaik-a8a99739b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masthanmasthan0580@gmail.com) 
 
-### 🧭 About Me
-
-* 🎓 B.E. in Computer Science (2021–2025)
-* 💼 Trained in Python Full Stack Development & Data Science at Palle Technologies
-* 🔍 Focused on turning raw data into decisions — dashboards, predictive models, and RAG-based AI systems
-* 🌱 Currently exploring LLM orchestration, RAG pipelines, and GenAI applications
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=masthanshaik8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=masthanshaik8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanshaik8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=masthanshaik8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-
-**Languages & Web**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-**Data & ML**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-3A6B35?style=flat-square" />
-</p>
-
-**AI / GenAI**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square" />
-</p>
-
-**Database & Tools**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Domain | Key Tech |
-|---|---|---|
-| [HR Management System](#) | Web App | Django, SQLite |
-| [Car Resale Price Prediction](#) | ML Regression | Random Forest, Flask |
-| [Gold Price Prediction](#) | ML Regression | Random Forest, Flask |
-| [Diabetes Prediction](#) | ML Classification | Random Forest, Flask |
-| [Customer Feedback Clustering](#) | NLP + Clustering | TF-IDF, K-Means, Flask |
-| [Sales Performance Dashboard](#) | BI Dashboard | Power BI, DAX |
-| [Customer Churn Prediction](#) | ML Classification | Logistic Regression, XGBoost |
-| [Brain Stroke Detection](#) | Deep Learning | CNN, VGG19 (Transfer Learning) |
-| [Personal AI Knowledge Assistant](#) | GenAI / RAG | LangChain, FAISS, OpenAI, Streamlit |
-
-> Replace the `#` links above with your actual repo URLs.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masthanshaik8&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masthanshaik8&theme=default" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masthanshaik8&layout=compact&theme=default" height="165" />
-</p>
-
----
-
-### 📜 Certifications
-
-* Python Full-Stack with Data Science — Palle Technologies
-* MS Office with AI — Skill Nation
-* Prompt Engineering — SimpliLearn
-
----
-
-### 📫 Reach Me
-
-<p align="left">
-  📧 shaikmasthan7337@gmail.com &nbsp;|&nbsp; 📱 +91-7337310253
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masthanshaik8&style=flat-square&color=blue" alt="profile views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
