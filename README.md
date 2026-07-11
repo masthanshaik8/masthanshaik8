@@ -17,8 +17,8 @@
 
 ### 🧭 About Me
 
-- 🎓 B.E. in Computer Science (2021–2025)
-🔭 Currently building: Machine Learning and Data Science projects, focusing on predictive models and real-world problem solving using Python and Flask.
+- 🎓 B.E. in Computer Science (2021–2025) <br>
+🔭 Currently building: Machine Learning and Data Science projects, focusing on predictive models and real-world problem solving using Python, Streamlit and Flask.
 💻 I work with: Python, Machine Learning, Data Science, and Full-Stack (Flask/Django) projects that solve practical business and healthcare problems.
 🌱 Currently improving: Model deployment, advanced machine-learning techniques, and gaining industry-level experience through real-time projects.
 📚 Leveling up in: Advanced Machine Learning concepts, Data Visualization, TensorFlow, and backend development with Flask and Django.
