@@ -142,6 +142,4 @@
   📧 shaikmasthan7337@gmail.com &nbsp;|&nbsp; 📱 +91-7337310253
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masthanshaik8&style=flat-square&color=blue" alt="profile views" />
-</p>
+
