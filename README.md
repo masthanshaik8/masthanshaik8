@@ -17,10 +17,10 @@
 
 ### 🧭 About Me
 
-* 🎓 B.E. in Computer Science (2021–2025)
-* 💼 Trained in Python Full Stack Development & Data Science at Palle Technologies
-* 🔍 Focused on turning raw data into decisions — dashboards, predictive models, and RAG-based AI systems
-* 🌱 Currently exploring LLM orchestration, RAG pipelines, and GenAI applications
+- 🎓 B.E. in Computer Science (2021–2025)
+- 💼 Trained in Python Full Stack Development & Data Science at Palle Technologies
+- 🔍 Focused on turning raw data into decisions — dashboards, predictive models, and RAG-based AI systems
+- 🌱 Currently exploring LLM orchestration, RAG pipelines, and GenAI applications
 
 ---
 
@@ -64,6 +64,22 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**MLOps**
+<p>
+  <img src="https://img.shields.io/badge/MLOps-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model_Deployment-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model_Versioning-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI/CD-orange?style=flat-square" />
+</p>
+
+**ML Techniques** (problem types, not tools — listed for recruiter keyword search)
+<p>
+  <img src="https://img.shields.io/badge/Classification-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Regression-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clustering-4B8BBE?style=flat-square" />
 </p>
 
 ---
@@ -101,9 +117,9 @@
 
 ### 📜 Certifications
 
-* Python Full-Stack with Data Science — Palle Technologies
-* MS Office with AI — Skill Nation
-* Prompt Engineering — SimpliLearn
+- Python Full-Stack with Data Science — Palle Technologies
+- MS Office with AI — Skill Nation
+- Prompt Engineering — SimpliLearn
 
 ---
 
