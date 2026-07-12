@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Masthan Shaik</h1>
-<h3 align="center">Data Analyst | Data Scientist | Python Developer | GenAI Enthusiast</h3>
+<h1 align="center"> Masthan Shaik </h1>
+<h3 align="center">Python Developer | Data Analyst | Data Scientist | GenAI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/masthan-shaik-a8a99739b" target="_blank">
