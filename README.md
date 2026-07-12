@@ -25,7 +25,7 @@
  Leveling up in Advanced Machine Learning concepts, Data Visualization, TensorFlow, and backend development with Flask and Django.
 
  Ask me about Python, Machine Learning, Random Forest models, Data Cleaning, Flask web apps, and predictive analytics.
-I enjoy turning raw data into meaningful insights — [add your actual best result here, e.g. model accuracy/R² you personally verified, not an assumed number].
+I enjoy turning raw data into meaningful insights 
 
 - 💼 Trained in Python Full Stack Development & Data Science at Palle Technologies
 - 🔍 Focused on turning raw data into decisions — dashboards, predictive models, and RAG-based AI systems
